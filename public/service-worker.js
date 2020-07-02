@@ -12,6 +12,7 @@ const CACHE_NAME = "budget-app";
 const DATA_CACHE_NAME = "data-cache-v1";
 
 self.addEventListener("install", function(evt) {
+    console.log('test');
     evt.waitUntil(
       caches.open(CACHE_NAME).then(cache => {
         console.log("Your files were pre-cached successfully!");
