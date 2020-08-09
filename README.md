@@ -23,7 +23,7 @@ The Online-Offline-Budget Tracker allows the user to use offline access and func
  
  ![Home Screenshot](images/gained.png) 
  
-# Badges
+## Badges
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/BrianLevin/Online-Offline-Budget-Trackers)
 
