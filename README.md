@@ -21,7 +21,7 @@ The Online-Offline-Budget Tracker allows the user to use offline access and func
  This is what the Budget App looks like when the user gains money:
  
  
- ![Home Screenshot](images/gain.png) 
+ ![Home Screenshot](images/gained.png) 
  
 # Badges
 
